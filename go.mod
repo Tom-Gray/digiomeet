@@ -1,4 +1,4 @@
-module DigioChat
+module github.com/Tom-Gray/digiomeet
 
 go 1.17
 
